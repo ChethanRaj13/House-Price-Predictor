@@ -83,6 +83,5 @@ print("Random Forest RMSE:", forest_rmse)
 
 input_data.to_csv("output.csv", index=False)
 print("Inference complete. Results saved to output.csv")
-Random Forest RMSE: 47119.62863546612
-Inference complete. Results saved to output.csv
+
  
