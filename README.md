@@ -68,5 +68,3 @@ Model trained and saved.
 Random Forest RMSE: 47119.62863546612
 Inference complete. Results saved to output.csv
 ```
-```bash
-pip install pandas numpy scikit-learn joblib
